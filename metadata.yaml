@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43059'
     url: http://www.gutenberg.org/2009/agents/43059
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45063#Nests-and-Eggs-of-Birds-of-The-United-StatesIllustrated
 gutenberg_issued: '2014-03-07'
 gutenberg_type: Text
 identifiers:
